@@ -7,4 +7,4 @@ manipulate the screen into variable screen sizes.</li>
 render it out.</li>
   <li>Used a JavaScript library - Slider to make a responsive slider.</li>
 </ul>
-<img src = "images/travel.jpg" height = "150px" width = "150px" >
+<img src = "images/travel.jpg" >
